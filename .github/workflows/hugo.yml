@@ -1,0 +1,38 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Change this to your Hugo project's branch name
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Clone GitHub Pages repository
+        uses: actions/checkout@v2
+        with:
+          repository: JuniorGunner/JuniorGunner.github.io  # Replace with your GitHub Pages repository
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./public
+
+      - name: Commit and push changes
+        run: |
+          cd ./public
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Deploy Hugo site to GitHub Pages"
+          git push
