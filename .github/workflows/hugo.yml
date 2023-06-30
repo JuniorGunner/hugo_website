@@ -19,7 +19,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -s portfolio
 
       - name: Clone GitHub Pages repository
         uses: actions/checkout@v2
