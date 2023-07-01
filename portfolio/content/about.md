@@ -1,22 +1,27 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2023-07-01"
+author = "GunnerDev"
+cover = "profile.jpeg"
 +++
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Junior and this is my personal website. Here I want to share my professional information, portfolio and, in the future, some tech posts and tutorials.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+## Backend Software Engineer
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+As a skilled Backend Software Engineer with extensive experience in software development, I am well-versed in a range of technologies, including Python, Django, Flask, FastAPI, SQLAlchemy, and Redis. Additionally, I have a strong background in cloud technologies, having worked extensively with Amazon Web Services (AWS), including AWS Lambda, API Gateway, Aurora, DynamoDB, S3, SQS, SAM, and CDK, as well as Google Cloud Platform. I also have strong experience in databases (relational and NoSQL) such as PostgreSQL, MySQL, SQL Server, MongoDB
 
-The theme includes:
+At **Erudit**, I played a key role in the development of a serverless application using Python and AWS Lambda. By leveraging AWS services such as API Gateway, Aurora, DynamoDB, and S3, I was able to build scalable and reliable solutions for our customers.
 
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
+At **Scrimmage**, I was responsible for the design and maintenance of backend systems using Python, Django, Django Rest Framework, and Flask. I have experience working with various databases, including Postgres, MongoDB, and Redis.
 
-So, there you have it... enjoy!
+At **Estante Mágica**, I developed microservices using Python and FastAPI, containerized with Docker, and deployed to Google Cloud Platform.
+
+Prior to my software engineering roles, I worked as an Information Technology Analyst at **Votorantim**, where I utilized my expertise in Python and Django to build data analysis tools using Pandas, Matplotlib, and Plotly. Additionally, I have experience in web scraping and crawling, using tools such as Scrapy and Scrapinghub.
+
+Furthermore, I have also worked as an IT Technician at **Sorocaba Technological College**, where I was responsible for managing and maintaining IT labs and the campus network. My skills include network management, hardware and software support, user support, and Active Directory administration. I am also experienced in shell scripting, virtualization technologies such as VMWare, and Windows Server and SQLServer.
+
+Overall, I am a highly experienced Backend Software Engineer with a proven track record of building reliable, scalable, and maintainable backend systems. My broad skill set and in-depth knowledge of a variety of technologies enable me to provide innovative solutions to complex problems.
+
