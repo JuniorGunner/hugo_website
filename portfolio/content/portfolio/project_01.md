@@ -1,8 +1,7 @@
 +++
-title = "Hello World"
+title = "Project 1"
 date = "2023-07-01"
 author = "GunnerDev"
-cover = "hello_cover.jpg"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
 +++
 

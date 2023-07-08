@@ -1,7 +1,8 @@
 ---
-title: "Portfolio"
-date: "2023-06-29"
-author: "Hello Robot"
+title: "How to use Scrapy lib"
+date: "2023-07-07"
+author: "GunnerDev"
+cover: "hello_cover.jpg"
 ---
 
 ## Header 2
