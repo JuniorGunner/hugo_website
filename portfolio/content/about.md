@@ -5,23 +5,21 @@ author = "GunnerDev"
 cover = "profile.jpeg"
 +++
 
-# Hi there
+# 👋 Hello there! 
 
-My name is Junior and this is my personal website. Here I want to share my professional information, portfolio and, in the future, some tech posts and tutorials.
+My name is Junior.
+I'm a dedicated and versatile **Backend Software Engineer**, educated at the _Universidade de Sorocaba_ (Bachelor of Science in Computer Science) and _ETEC Fernando Prestes_ (Technician in Information Technology). Over the past 7️⃣ years, I've gained rich experience and developed proficiency in 🐍 Python, FastAPI, Django, Flask, and SQLAlchemy, among other technologies.
 
-## Backend Software Engineer
+## 🚀 Expertise
 
-As a skilled Backend Software Engineer with extensive experience in software development, I am well-versed in a range of technologies, including Python, Django, Flask, FastAPI, SQLAlchemy, and Redis. Additionally, I have a strong background in cloud technologies, having worked extensively with Amazon Web Services (AWS), including AWS Lambda, API Gateway, Aurora, DynamoDB, S3, SQS, SAM, and CDK, as well as Google Cloud Platform. I also have strong experience in databases (relational and NoSQL) such as PostgreSQL, MySQL, SQL Server, MongoDB
+Leveraging my firm foundation in computer science and IT, I have designed and implemented scalable ☁️ cloud solutions using AWS and Google Cloud Platform across various industries. I excel at managing data with tools like 🐘 PostgreSQL, 🍃 MongoDB, and 💎 DynamoDB.
 
-At **Erudit**, I played a key role in the development of a serverless application using Python and AWS Lambda. By leveraging AWS services such as API Gateway, Aurora, DynamoDB, and S3, I was able to build scalable and reliable solutions for our customers.
+## 🕰️ Past Experience
 
-At **Scrimmage**, I was responsible for the design and maintenance of backend systems using Python, Django, Django Rest Framework, and Flask. I have experience working with various databases, including Postgres, MongoDB, and Redis.
+Before shifting my focus to software engineering, I served as an IT Analyst and Technician. Here, I honed my skills in data analysis using 🐼 Pandas, 📊 Matplotlib, 🔢 Numpy, 📈 Plotly, and 📓 Jupyter Notebooks. I also provided comprehensive user support and gained hands-on experience managing IT labs and networks in an academic setting.
 
-At **Estante Mágica**, I developed microservices using Python and FastAPI, containerized with Docker, and deployed to Google Cloud Platform.
+## 🎯 Goals
 
-Prior to my software engineering roles, I worked as an Information Technology Analyst at **Votorantim**, where I utilized my expertise in Python and Django to build data analysis tools using Pandas, Matplotlib, and Plotly. Additionally, I have experience in web scraping and crawling, using tools such as Scrapy and Scrapinghub.
+I'm well-equipped to tackle complex problems, thanks to my blend of education and experience in software development, data management, cloud solutions, and IT support. I'm actively seeking opportunities where I can employ my skill set to create efficient, scalable solutions. As a lifelong learner, I'm excited to embrace new challenges and advancements in the tech industry.
 
-Furthermore, I have also worked as an IT Technician at **Sorocaba Technological College**, where I was responsible for managing and maintaining IT labs and the campus network. My skills include network management, hardware and software support, user support, and Active Directory administration. I am also experienced in shell scripting, virtualization technologies such as VMWare, and Windows Server and SQLServer.
-
-Overall, I am a highly experienced Backend Software Engineer with a proven track record of building reliable, scalable, and maintainable backend systems. My broad skill set and in-depth knowledge of a variety of technologies enable me to provide innovative solutions to complex problems.
-
+Feel free to reach out and connect! 👥
