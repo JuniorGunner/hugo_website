@@ -23,3 +23,5 @@ Before shifting my focus to software engineering, I served as an IT Analyst and 
 I'm well-equipped to tackle complex problems, thanks to my blend of education and experience in software development, data management, cloud solutions, and IT support. I'm actively seeking opportunities where I can employ my skill set to create efficient, scalable solutions. As a lifelong learner, I'm excited to embrace new challenges and advancements in the tech industry.
 
 Feel free to reach out and connect! 👥
+
+ 📋 [My Resume](/resume_2023.pdf)
