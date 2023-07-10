@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "GunnerDev"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
