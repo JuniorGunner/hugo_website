@@ -1,5 +1,7 @@
 +++
 title = "Portfolio"
+date = "2023-09-06"
+cover = "portfolio.png"
 +++
 
 ## [flask_football_api](https://github.com/JuniorGunner/flask_football_api)
