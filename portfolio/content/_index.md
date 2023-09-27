@@ -24,8 +24,7 @@ cover = ""
 
 
 
-Feel free to reach out and connect! 👥
-
-🔗 **LinkedIn:** [linkedin.com/in/csfjunior90/](#)
-📧 **Email:** [csf.junior90@gmail.com](mailto:csf.junior90@gmail.com)
+Feel free to reach out and connect! 👥  
+🔗 **LinkedIn:** [linkedin.com/in/csfjunior90/](https://www.linkedin.com/in/csfjunior90/)  
+📧 **Email:** [csf.junior90@gmail.com](mailto:csf.junior90@gmail.com)  
 📋 **Resume:** [My Resume 2023](/resume.pdf)
