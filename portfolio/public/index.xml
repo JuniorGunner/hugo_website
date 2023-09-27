@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>flask_football_api ⚽ Football Data API This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>flask_football_api ⚽ Football Data API This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.
 Tech Stack 🛠️ 🐍 Python - Chosen for its simplicity and readability, making the code easy to write and maintain. 🌶️ Flask - A lightweight and versatile micro web framework suitable for small to medium applications.</description><content>&lt;h2 id="flask_football_apihttpsgithubcomjuniorgunnerflask_football_api">&lt;a href="https://github.com/JuniorGunner/flask_football_api">flask_football_api&lt;/a>&lt;/h2>
 &lt;h3 id="-football-data-api">⚽ Football Data API&lt;/h3>
 &lt;p>This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.&lt;/p>
@@ -10,10 +10,21 @@ Tech Stack 🛠️ 🐍 Python - Chosen for its simplicity and readability, maki
 &lt;li>🐳 &lt;strong>Docker&lt;/strong> - Simplifies the process of creating, deploying, and running applications using containers. It enables developers to package an application and its dependencies into a single container.&lt;/li>
 &lt;/ul>
 &lt;hr>
+&lt;h2 id="tst_automation_toolgitgithubcomjuniorgunnertst_automation_toolgit">&lt;a href="git@github.com:JuniorGunner/tst_automation_tool.git">tst_automation_tool&lt;/a>&lt;/h2>
+&lt;h3 id="-tst-brazilian-superior-labor-court-website-automation-tool">📑 TST (Brazilian Superior Labor Court) website Automation Tool&lt;/h3>
+&lt;p>This project is an automation tool designed to download PDF journals from Brazil&amp;rsquo;s Superior Labor Court (TST) website, extract the case numbers, and generate Excel spreadsheets separated by date. Additionally, the script identifies duplicate cases and generates a corresponding report.&lt;/p>
+&lt;h4 id="tech-stack--1">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>🐍 Python 3&lt;/li>
+&lt;li>🌐 Selenium&lt;/li>
+&lt;li>📄 PyPDF&lt;/li>
+&lt;li>🐼 Pandas&lt;/li>
+&lt;/ul>
+&lt;hr>
 &lt;h2 id="pet_adoption_apihttpsgithubcomjuniorgunnerpet_adoption_api">&lt;a href="https://github.com/JuniorGunner/pet_adoption_api">pet_adoption_api&lt;/a>&lt;/h2>
 &lt;h3 id="-pet-adoption-api---backend">🐾 Pet Adoption API - Backend&lt;/h3>
 &lt;p>A simple yet powerful API developed to aid pet adoption organizations. It&amp;rsquo;s designed using Django and Django Rest Framework.&lt;/p>
-&lt;h4 id="tech-stack--1">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--2">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>🐍 Python 3.x&lt;/li>
 &lt;li>🎯 Django&lt;/li>
@@ -24,7 +35,7 @@ Tech Stack 🛠️ 🐍 Python - Chosen for its simplicity and readability, maki
 &lt;h3 id="-scrapy--beautifulsoup-real-estate-scraper">🏡 Scrapy + BeautifulSoup Real Estate Scraper&lt;/h3>
 &lt;p>This project is a robust web scraper designed to collect and store property sales values and other pertinent details about properties.&lt;/p>
 &lt;p>🕸️ Data is scraped from &lt;a href="https://www.casamineira.com.br/">Casamineira&lt;/a>, a leading real estate website.&lt;/p>
-&lt;h4 id="tech-stack--2">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--3">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>🕷️ Scrapy&lt;/li>
 &lt;li>🍲 BeautifulSoup&lt;/li>
