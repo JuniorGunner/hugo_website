@@ -10,17 +10,18 @@ cover = ""
 🔍 **Detail-Oriented and Solutions-Oriented Professional** with over 9️⃣ years of experience specializing in creating scalable and robust backend systems.
 
 ## 🎓 **Education:**
-- 📚 Bachelor of Science in Computer Science
-- 🛠️ Technician degree in Information Technology
+- 📚 Bachelor of Science in Computer Science (2018)
+- 🛠️ Technician degree in Information Technology (2013)
 
 ## 🛠️ **Tech Stack:**
-- **Languages:** Python 🐍, Java ☕, C# ⚙️, VB.NET, C/C++
+- **Languages:** Python 🐍, JavaScript, Java ☕, C# ⚙️, VB.NET, C/C++
 - **Frameworks:** FastAPI 🚀, Django 🌐, Flask 🌶️, Bootstrap 🛠️
 - **Databases:** PostgreSQL 🐘, MySQL 🛢️, Oracle 🗃️, MongoDB 🍃, DynamoDB, SQLServer, Redis
 - **Cloud Services:** AWS ☁️, Google Cloud Platform ☁️
 - **Tools:** Docker 🐳, Github Actions 🔄, Github
 - **Data Analysis:** Pandas 🐼, Matplotlib 📊, Numpy 🔢, Plotly 📈, Jupyter 📓
 - **Operational Systems:** Linux (Ubuntu, AWS Linux), MacOS, Windows
+- **Others:** HTML, CSS
 
 
 
