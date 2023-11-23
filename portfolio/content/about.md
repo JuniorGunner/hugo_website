@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2023-09-27"
+date = "2023-11-23"
 author = "GunnerDev"
 cover = ""
 +++
@@ -28,4 +28,4 @@ cover = ""
 Feel free to reach out and connect! 👥  
 🔗 **LinkedIn:** [linkedin.com/in/csfjunior90/](https://www.linkedin.com/in/csfjunior90/)  
 📧 **Email:** [csf.junior90@gmail.com](mailto:csf.junior90@gmail.com)  
-📋 **Resume:** [My Resume 2023](/resume.pdf)
+📋 **Resume:** [My Resume 2024](/resume.pdf)

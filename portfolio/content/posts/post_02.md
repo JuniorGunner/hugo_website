@@ -1,8 +1,8 @@
 ---
-title: "How to use Scrapy lib"
-date: "2023-07-07"
+title: "🚧  How to use Scrapy lib (under construction) 🚧"
+date: "2023-11-23"
 author: "GunnerDev"
-cover: "hello_cover.jpg"
+cover: "posts/post_02.png"
 ---
 
 ## Header 2

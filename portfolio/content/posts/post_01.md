@@ -1,8 +1,8 @@
 ---
-title: "How to start a portfolio with Hugo and Github Pages"
-date: "2023-06-29"
+title: "🚧  How to start a portfolio with Hugo and Github Pages (under construction) 🚧"
+date: "2023-11-23"
 author: "GunnerDev"
-cover: "hello_cover.jpg"
+cover: "posts/post_01.png"
 ---
 
 ## Header 2
