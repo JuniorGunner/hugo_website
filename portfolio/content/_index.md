@@ -1,27 +1,26 @@
 +++
 title = "About"
-date = "2023-11-23"
+date = "2024-01-12"
 author = "GunnerDev"
-cover = "hello.jpg"
 +++
 
-# 👨‍💻 [Claudemir S. Freitas Junior]: Backend Software Engineer
+# 👨‍💻 [Claudemir S. Freitas Junior]: Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science
 
-🔍 **Detail-Oriented and Solutions-Oriented Professional** with over 9️⃣ years of experience specializing in creating scalable and robust backend systems.
+🔍 **About:** With 10 years of experience in the IT field, 5 years working focused in Backend Software Engineering, I have developed a strong skill set in programming languages and frameworks such as Python, Java, JavaScript, C++, Django, Flask, FastAPI, and SQLAlchemy. Additionally, I am experienced in databases such as PostgreSQL, MySQL, MongoDB, SQLServer and Oracle, as well as cloud technologies like AWS and Google Cloud Platform.
 
 ## 🎓 **Education:**
-- 📚 Bachelor of Science in Computer Science (2018)
-- 🛠️ Technician degree in Information Technology (2013)
+- Bachelor of Science in Computer Science (2018)
+- Technician degree in Information Technology (2013)
 
 ## 🛠️ **Tech Stack:**
-- **Languages:** Python 🐍, JavaScript, Java ☕, C# ⚙️, VB.NET, C/C++
-- **Frameworks:** FastAPI 🚀, Django 🌐, Flask 🌶️, Bootstrap 🛠️
-- **Databases:** PostgreSQL 🐘, MySQL 🛢️, Oracle 🗃️, MongoDB 🍃, DynamoDB, SQLServer, Redis
-- **Cloud Services:** AWS ☁️, Google Cloud Platform ☁️
-- **Tools:** Docker 🐳, Github Actions 🔄, Github
-- **Data Analysis:** Pandas 🐼, Matplotlib 📊, Numpy 🔢, Plotly 📈, Jupyter 📓
-- **Operational Systems:** Linux (Ubuntu, AWS Linux), MacOS, Windows
-- **Others:** HTML, CSS
+- **Languages:** Python, Java, C++, C#, VB.NET, JavaScript
+- **Frameworks:** Django, Django REST Framework, Flask, FastAPI, Bootstrap
+- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB, SQLServer, Redis, DynamoDB, Aurora
+- **Cloud Services:** AWS, Google Cloud Platform
+- **Tools:** Docker, Github Actions, Github, GitLab, BitBucket
+- **Data Analysis:** Pandas, Matplotlib, Numpy, Plotly, Jupyter
+- **Operational Systems:** Linux (Ubuntu, Amazon Linux), MacOS, Windows
+- **Others:** HTML5, CSS3
 
 
 
