@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>🚧 How to start a portfolio with Hugo and Github Pages (under construction) 🚧</title><link>/posts/post_01/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>/posts/post_01/</guid><description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description><content>&lt;h2 id="header-2">Header 2&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description>👨‍💻 [Claudemir S. Freitas Junior]: Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science 🔍 About: With 10 years of experience in the IT field, 5 years working focused in Backend Software Engineering, I have developed a strong skill set in programming languages and frameworks such as Python, Java, JavaScript, C++, Django, Flask, FastAPI, and SQLAlchemy. Additionally, I am experienced in databases such as PostgreSQL, MySQL, MongoDB, SQLServer and Oracle, as well as cloud technologies like AWS and Google Cloud Platform.</description><content>&lt;h1 id="-claudemir-s-freitas-junior-python-developer--backend-software-engineer--aws--devops--bs-in-computer-science">👨‍💻 [Claudemir S. Freitas Junior]: Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science&lt;/h1>
+&lt;p>🔍 &lt;strong>About:&lt;/strong> With 10 years of experience in the IT field, 5 years working focused in Backend Software Engineering, I have developed a strong skill set in programming languages and frameworks such as Python, Java, JavaScript, C++, Django, Flask, FastAPI, and SQLAlchemy. Additionally, I am experienced in databases such as PostgreSQL, MySQL, MongoDB, SQLServer and Oracle, as well as cloud technologies like AWS and Google Cloud Platform.&lt;/p>
+&lt;h2 id="-education">🎓 &lt;strong>Education:&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Bachelor of Science in Computer Science (2018)&lt;/li>
+&lt;li>Technician degree in Information Technology (2013)&lt;/li>
+&lt;/ul>
+&lt;h2 id="-tech-stack">🛠️ &lt;strong>Tech Stack:&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Languages:&lt;/strong> Python, Java, C++, C#, VB.NET, JavaScript&lt;/li>
+&lt;li>&lt;strong>Frameworks:&lt;/strong> Django, Django REST Framework, Flask, FastAPI, Bootstrap&lt;/li>
+&lt;li>&lt;strong>Databases:&lt;/strong> PostgreSQL, MySQL, Oracle, MongoDB, SQLServer, Redis, DynamoDB, Aurora&lt;/li>
+&lt;li>&lt;strong>Cloud Services:&lt;/strong> AWS, Google Cloud Platform&lt;/li>
+&lt;li>&lt;strong>Tools:&lt;/strong> Docker, Github Actions, Github, GitLab, BitBucket&lt;/li>
+&lt;li>&lt;strong>Data Analysis:&lt;/strong> Pandas, Matplotlib, Numpy, Plotly, Jupyter&lt;/li>
+&lt;li>&lt;strong>Operational Systems:&lt;/strong> Linux (Ubuntu, Amazon Linux), MacOS, Windows&lt;/li>
+&lt;li>&lt;strong>Others:&lt;/strong> HTML5, CSS3&lt;/li>
+&lt;/ul>
+&lt;p>Feel free to reach out and connect! 👥&lt;br>
+🔗 &lt;strong>LinkedIn:&lt;/strong> &lt;a href="https://www.linkedin.com/in/csfjunior90/">linkedin.com/in/csfjunior90/&lt;/a>&lt;br>
+📧 &lt;strong>Email:&lt;/strong> &lt;a href="mailto:csf.junior90@gmail.com">csf.junior90@gmail.com&lt;/a>&lt;br>
+📋 &lt;strong>Resume:&lt;/strong> &lt;a href="/resume.pdf">My Resume 2024&lt;/a>&lt;/p></content></item><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>food_truck_finder FoodTruck Finder API developed to find nearby food trucks based on user&amp;rsquo;s location
+Tech Stack 🛠️ Python 3 Django Django REST Framework Docker kabum_api 📘 Kabum API This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America. The API provides freight quotes based on the dimensions and weight of products, querying different carrier options.
+The system is designed to receive POST requests with product details and return a list of available shipping options, along with their costs and estimated delivery times.</description><content>&lt;h2 id="food_truck_finderhttpsgithubcomjuniorgunnerfood_truck_finder">&lt;a href="https://github.com/JuniorGunner/food_truck_finder">food_truck_finder&lt;/a>&lt;/h2>
+&lt;h3 id="foodtruck-finder">FoodTruck Finder&lt;/h3>
+&lt;p>API developed to find nearby food trucks based on user&amp;rsquo;s location&lt;/p>
+&lt;h4 id="tech-stack-">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Django&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Django REST Framework&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="kabum_apihttpsgithubcomjuniorgunnerkabum_api">&lt;a href="https://github.com/JuniorGunner/kabum_api">kabum_api&lt;/a>&lt;/h2>
+&lt;h3 id="-kabum-api">📘 Kabum API&lt;/h3>
+&lt;p>This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America. The API provides freight quotes based on the dimensions and weight of products, querying different carrier options.&lt;/p>
+&lt;p>The system is designed to receive POST requests with product details and return a list of available shipping options, along with their costs and estimated delivery times.&lt;/p>
+&lt;h4 id="tech-stack--1">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Flask&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>unittest&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="flask_football_apihttpsgithubcomjuniorgunnerflask_football_api">&lt;a href="https://github.com/JuniorGunner/flask_football_api">flask_football_api&lt;/a>&lt;/h2>
+&lt;h3 id="-football-data-api">⚽ Football Data API&lt;/h3>
+&lt;p>This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.&lt;/p>
+&lt;h4 id="tech-stack--2">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Flask&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>MongoDB&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="dynamic_page_builderhttpsgithubcomjuniorgunnerdynamic_page_builder">&lt;a href="https://github.com/JuniorGunner/dynamic_page_builder">dynamic_page_builder&lt;/a>&lt;/h2>
+&lt;p>The Dynamic WebPage Builder is a web-based tool that enables users to easily create web pages by dynamically adding and configuring HTML elements. Users can visualize their page content in real-time, confirm its design, and then render the final product seamlessly.&lt;/p>
+&lt;h4 id="tech-stack--3">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Django&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Frontend: HTML, CSS and JavaScript&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="data_transformation_scripthttpsgithubcomjuniorgunnerdata_transformation_script">&lt;a href="https://github.com/JuniorGunner/data_transformation_script">data_transformation_script&lt;/a>&lt;/h2>
+&lt;h3 id="-data-transformation-script">🔄 Data Transformation Script&lt;/h3>
+&lt;p>The project is designed to transform a specific structure of data from an Excel file into a more structured and usable format.&lt;/p>
+&lt;h4 id="tech-stack--4">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Pandas&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="tst_automation_toolgitgithubcomjuniorgunnertst_automation_toolgit">&lt;a href="git@github.com:JuniorGunner/tst_automation_tool.git">tst_automation_tool&lt;/a>&lt;/h2>
+&lt;h3 id="-tst-brazilian-superior-labor-court-website-automation-tool">📑 TST (Brazilian Superior Labor Court) website Automation Tool&lt;/h3>
+&lt;p>This project is an automation tool designed to download PDF journals from Brazil&amp;rsquo;s Superior Labor Court (TST) website, extract the case numbers, and generate Excel spreadsheets separated by date. Additionally, the script identifies duplicate cases and generates a corresponding report.&lt;/p>
+&lt;h4 id="tech-stack--5">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Selenium&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>PyPDF&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Pandas&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="pet_adoption_apihttpsgithubcomjuniorgunnerpet_adoption_api">&lt;a href="https://github.com/JuniorGunner/pet_adoption_api">pet_adoption_api&lt;/a>&lt;/h2>
+&lt;h3 id="-pet-adoption-api">🐾 Pet Adoption API&lt;/h3>
+&lt;p>A simple yet powerful API developed to aid pet adoption organizations. It&amp;rsquo;s designed using Django and Django Rest Framework.&lt;/p>
+&lt;h4 id="tech-stack--6">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Django&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Django Rest Framework&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="properties_scrapyhttpsgithubcomjuniorgunnerproperties_scrapy">&lt;a href="https://github.com/JuniorGunner/properties_scrapy">properties_scrapy&lt;/a>&lt;/h2>
+&lt;h3 id="-scrapy--beautifulsoup-real-estate-scraper">🏡 Scrapy + BeautifulSoup Real Estate Scraper&lt;/h3>
+&lt;p>This project is a robust web scraper designed to collect and store property sales values and other pertinent details about properties.&lt;/p>
+&lt;p>Data is scraped from &lt;a href="https://www.casamineira.com.br/">Casamineira&lt;/a>, a leading real estate website.&lt;/p>
+&lt;h4 id="tech-stack--7">Tech Stack 🛠️&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Scrapy&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>BeautifulSoup&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr></content></item><item><title>🚧 How to start a portfolio with Hugo and Github Pages (under construction) 🚧</title><link>/posts/post_01/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>/posts/post_01/</guid><description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description><content>&lt;h2 id="header-2">Header 2&lt;/h2>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p>
 &lt;blockquote>
 &lt;p>Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p>
@@ -132,68 +239,4 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p></content></item><item><title>About</title><link>/about/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>/about/</guid><description>👨‍💻 [Claudemir S. Freitas Junior]: Backend Software Engineer 🔍 Detail-Oriented and Solutions-Oriented Professional with over 9️⃣ years of experience specializing in creating scalable and robust backend systems.
-🎓 Education: 📚 Bachelor of Science in Computer Science (2018) 🛠️ Technician degree in Information Technology (2013) 🛠️ Tech Stack: Languages: Python 🐍, JavaScript, Java ☕, C# ⚙️, VB.NET, C/C++ Frameworks: FastAPI 🚀, Django 🌐, Flask 🌶️, Bootstrap 🛠️ Databases: PostgreSQL 🐘, MySQL 🛢️, Oracle 🗃️, MongoDB 🍃, DynamoDB, SQLServer, Redis Cloud Services: AWS ☁️, Google Cloud Platform ☁️ Tools: Docker 🐳, Github Actions 🔄, Github Data Analysis: Pandas 🐼, Matplotlib 📊, Numpy 🔢, Plotly 📈, Jupyter 📓 Operational Systems: Linux (Ubuntu, AWS Linux), MacOS, Windows Others: HTML, CSS Feel free to reach out and connect!</description><content>&lt;h1 id="-claudemir-s-freitas-junior-backend-software-engineer">👨‍💻 [Claudemir S. Freitas Junior]: Backend Software Engineer&lt;/h1>
-&lt;p>🔍 &lt;strong>Detail-Oriented and Solutions-Oriented Professional&lt;/strong> with over 9️⃣ years of experience specializing in creating scalable and robust backend systems.&lt;/p>
-&lt;h2 id="-education">🎓 &lt;strong>Education:&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>📚 Bachelor of Science in Computer Science (2018)&lt;/li>
-&lt;li>🛠️ Technician degree in Information Technology (2013)&lt;/li>
-&lt;/ul>
-&lt;h2 id="-tech-stack">🛠️ &lt;strong>Tech Stack:&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Languages:&lt;/strong> Python 🐍, JavaScript, Java ☕, C# ⚙️, VB.NET, C/C++&lt;/li>
-&lt;li>&lt;strong>Frameworks:&lt;/strong> FastAPI 🚀, Django 🌐, Flask 🌶️, Bootstrap 🛠️&lt;/li>
-&lt;li>&lt;strong>Databases:&lt;/strong> PostgreSQL 🐘, MySQL 🛢️, Oracle 🗃️, MongoDB 🍃, DynamoDB, SQLServer, Redis&lt;/li>
-&lt;li>&lt;strong>Cloud Services:&lt;/strong> AWS ☁️, Google Cloud Platform ☁️&lt;/li>
-&lt;li>&lt;strong>Tools:&lt;/strong> Docker 🐳, Github Actions 🔄, Github&lt;/li>
-&lt;li>&lt;strong>Data Analysis:&lt;/strong> Pandas 🐼, Matplotlib 📊, Numpy 🔢, Plotly 📈, Jupyter 📓&lt;/li>
-&lt;li>&lt;strong>Operational Systems:&lt;/strong> Linux (Ubuntu, AWS Linux), MacOS, Windows&lt;/li>
-&lt;li>&lt;strong>Others:&lt;/strong> HTML, CSS&lt;/li>
-&lt;/ul>
-&lt;p>Feel free to reach out and connect! 👥&lt;br>
-🔗 &lt;strong>LinkedIn:&lt;/strong> &lt;a href="https://www.linkedin.com/in/csfjunior90/">linkedin.com/in/csfjunior90/&lt;/a>&lt;br>
-📧 &lt;strong>Email:&lt;/strong> &lt;a href="mailto:csf.junior90@gmail.com">csf.junior90@gmail.com&lt;/a>&lt;br>
-📋 &lt;strong>Resume:&lt;/strong> &lt;a href="/resume.pdf">My Resume 2024&lt;/a>&lt;/p></content></item><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>flask_football_api ⚽ Football Data API This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.
-Tech Stack 🛠️ 🐍 Python - Chosen for its simplicity and readability, making the code easy to write and maintain. 🌶️ Flask - A lightweight and versatile micro web framework suitable for small to medium applications.</description><content>&lt;h2 id="flask_football_apihttpsgithubcomjuniorgunnerflask_football_api">&lt;a href="https://github.com/JuniorGunner/flask_football_api">flask_football_api&lt;/a>&lt;/h2>
-&lt;h3 id="-football-data-api">⚽ Football Data API&lt;/h3>
-&lt;p>This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.&lt;/p>
-&lt;h4 id="tech-stack-">Tech Stack 🛠️&lt;/h4>
-&lt;ul>
-&lt;li>🐍 &lt;strong>Python&lt;/strong> - Chosen for its simplicity and readability, making the code easy to write and maintain.&lt;/li>
-&lt;li>🌶️ &lt;strong>Flask&lt;/strong> - A lightweight and versatile micro web framework suitable for small to medium applications.&lt;/li>
-&lt;li>🍃 &lt;strong>MongoDB&lt;/strong> - A popular NoSQL database, known for its scalability and flexibility when dealing with large amounts of data and complex software applications.&lt;/li>
-&lt;li>🐳 &lt;strong>Docker&lt;/strong> - Simplifies the process of creating, deploying, and running applications using containers. It enables developers to package an application and its dependencies into a single container.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="tst_automation_toolgitgithubcomjuniorgunnertst_automation_toolgit">&lt;a href="git@github.com:JuniorGunner/tst_automation_tool.git">tst_automation_tool&lt;/a>&lt;/h2>
-&lt;h3 id="-tst-brazilian-superior-labor-court-website-automation-tool">📑 TST (Brazilian Superior Labor Court) website Automation Tool&lt;/h3>
-&lt;p>This project is an automation tool designed to download PDF journals from Brazil&amp;rsquo;s Superior Labor Court (TST) website, extract the case numbers, and generate Excel spreadsheets separated by date. Additionally, the script identifies duplicate cases and generates a corresponding report.&lt;/p>
-&lt;h4 id="tech-stack--1">Tech Stack 🛠️&lt;/h4>
-&lt;ul>
-&lt;li>🐍 Python 3&lt;/li>
-&lt;li>🌐 Selenium&lt;/li>
-&lt;li>📄 PyPDF&lt;/li>
-&lt;li>🐼 Pandas&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="pet_adoption_apihttpsgithubcomjuniorgunnerpet_adoption_api">&lt;a href="https://github.com/JuniorGunner/pet_adoption_api">pet_adoption_api&lt;/a>&lt;/h2>
-&lt;h3 id="-pet-adoption-api---backend">🐾 Pet Adoption API - Backend&lt;/h3>
-&lt;p>A simple yet powerful API developed to aid pet adoption organizations. It&amp;rsquo;s designed using Django and Django Rest Framework.&lt;/p>
-&lt;h4 id="tech-stack--2">Tech Stack 🛠️&lt;/h4>
-&lt;ul>
-&lt;li>🐍 Python 3.x&lt;/li>
-&lt;li>🎯 Django&lt;/li>
-&lt;li>🎯 Django Rest Framework.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="properties_scrapyhttpsgithubcomjuniorgunnerproperties_scrapy">&lt;a href="https://github.com/JuniorGunner/properties_scrapy">properties_scrapy&lt;/a>&lt;/h2>
-&lt;h3 id="-scrapy--beautifulsoup-real-estate-scraper">🏡 Scrapy + BeautifulSoup Real Estate Scraper&lt;/h3>
-&lt;p>This project is a robust web scraper designed to collect and store property sales values and other pertinent details about properties.&lt;/p>
-&lt;p>🕸️ Data is scraped from &lt;a href="https://www.casamineira.com.br/">Casamineira&lt;/a>, a leading real estate website.&lt;/p>
-&lt;h4 id="tech-stack--3">Tech Stack 🛠️&lt;/h4>
-&lt;ul>
-&lt;li>🕷️ Scrapy&lt;/li>
-&lt;li>🍲 BeautifulSoup&lt;/li>
-&lt;/ul>
-&lt;hr></content></item></channel></rss>
+&lt;p>Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p></content></item></channel></rss>
