@@ -1,9 +1,38 @@
 +++
 title = "Portfolio"
-date = "2023-11-23"
+date = "2024-01-12"
 cover = "portfolio.png"
 paginate = true
 +++
+
+
+## [food_truck_finder](https://github.com/JuniorGunner/food_truck_finder)
+### FoodTruck Finder
+API developed to find nearby food trucks based on user's location
+
+#### Tech Stack 🛠️
+
+- **Python 3**
+- **Django**
+- **Django REST Framework**
+- **Docker**
+---
+
+## [kabum_api](https://github.com/JuniorGunner/kabum_api)
+
+### 📘 Kabum API
+
+This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America. The API provides freight quotes based on the dimensions and weight of products, querying different carrier options.
+
+The system is designed to receive POST requests with product details and return a list of available shipping options, along with their costs and estimated delivery times.
+
+#### Tech Stack 🛠️
+
+- **Python 3**
+- **Flask**
+- **Docker**
+- **unittest**
+---
 
 ## [flask_football_api](https://github.com/JuniorGunner/flask_football_api)
 
@@ -17,6 +46,28 @@ This project is designed to create a REST API that interacts with the Football-d
 - **Flask**
 - **MongoDB**
 - **Docker**
+---
+
+## [dynamic_page_builder](https://github.com/JuniorGunner/dynamic_page_builder)
+
+The Dynamic WebPage Builder is a web-based tool that enables users to easily create web pages by dynamically adding and configuring HTML elements. Users can visualize their page content in real-time, confirm its design, and then render the final product seamlessly.
+
+#### Tech Stack 🛠️
+- **Python 3**
+- **Django**
+- **Frontend: HTML, CSS and JavaScript**
+- **Docker**
+---
+
+## [data_transformation_script](https://github.com/JuniorGunner/data_transformation_script)
+
+### 🔄 Data Transformation Script
+
+The project is designed to transform a specific structure of data from an Excel file into a more structured and usable format.
+
+#### Tech Stack 🛠️
+- **Python 3**
+- **Pandas**
 ---
 
 ## [tst_automation_tool](git@github.com:JuniorGunner/tst_automation_tool.git)
