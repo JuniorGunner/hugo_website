@@ -1,10 +1,23 @@
 +++
 title = "Portfolio"
-date = "2024-01-12"
+date = "2024-01-20"
 cover = "portfolio.png"
 paginate = true
 +++
 
+## [ecommerce_backend](https://github.com/JuniorGunner/ecommerce_backend)
+🚧 In Progress
+
+Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.
+
+#### Tech Stack 🛠️
+- **Python 3**
+- **FastAPI**
+- **PostgreSQL**
+- **SQLAlchemy**
+- **Alembic**
+- **Docker**
+---
 
 ## [food_truck_finder](https://github.com/JuniorGunner/food_truck_finder)
 ### FoodTruck Finder
@@ -42,7 +55,7 @@ This project is designed to create a REST API that interacts with the Football-d
 
 #### Tech Stack 🛠️
 
-- **Python**
+- **Python 3**
 - **Flask**
 - **MongoDB**
 - **Docker**
