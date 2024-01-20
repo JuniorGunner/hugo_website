@@ -1,30 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description>👨‍💻 [Claudemir S. Freitas Junior]: Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science 🔍 About: With 10 years of experience in the IT field, 5 years working focused in Backend Software Engineering, I have developed a strong skill set in programming languages and frameworks such as Python, Java, JavaScript, C++, Django, Flask, FastAPI, and SQLAlchemy. Additionally, I am experienced in databases such as PostgreSQL, MySQL, MongoDB, SQLServer and Oracle, as well as cloud technologies like AWS and Google Cloud Platform.</description><content>&lt;h1 id="-claudemir-s-freitas-junior-python-developer--backend-software-engineer--aws--devops--bs-in-computer-science">👨‍💻 [Claudemir S. Freitas Junior]: Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science&lt;/h1>
-&lt;p>🔍 &lt;strong>About:&lt;/strong> With 10 years of experience in the IT field, 5 years working focused in Backend Software Engineering, I have developed a strong skill set in programming languages and frameworks such as Python, Java, JavaScript, C++, Django, Flask, FastAPI, and SQLAlchemy. Additionally, I am experienced in databases such as PostgreSQL, MySQL, MongoDB, SQLServer and Oracle, as well as cloud technologies like AWS and Google Cloud Platform.&lt;/p>
-&lt;h2 id="-education">🎓 &lt;strong>Education:&lt;/strong>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description/><content>&lt;iframe src="/resume.pdf" width="100%" height="1000px" frameborder="0">&lt;/iframe></content></item><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>ecommerce_backend 🚧 In Progress
+Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.
+Tech Stack 🛠️ Python 3 FastAPI PostgreSQL SQLAlchemy Alembic Docker food_truck_finder FoodTruck Finder API developed to find nearby food trucks based on user&amp;rsquo;s location
+Tech Stack 🛠️ Python 3 Django Django REST Framework Docker kabum_api 📘 Kabum API This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America.</description><content>&lt;h2 id="ecommerce_backendhttpsgithubcomjuniorgunnerecommerce_backend">&lt;a href="https://github.com/JuniorGunner/ecommerce_backend">ecommerce_backend&lt;/a>&lt;/h2>
+&lt;p>🚧 In Progress&lt;/p>
+&lt;p>Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.&lt;/p>
+&lt;h4 id="tech-stack-">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
-&lt;li>Bachelor of Science in Computer Science (2018)&lt;/li>
-&lt;li>Technician degree in Information Technology (2013)&lt;/li>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>FastAPI&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>PostgreSQL&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>SQLAlchemy&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Alembic&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
 &lt;/ul>
-&lt;h2 id="-tech-stack">🛠️ &lt;strong>Tech Stack:&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Languages:&lt;/strong> Python, Java, C++, C#, VB.NET, JavaScript&lt;/li>
-&lt;li>&lt;strong>Frameworks:&lt;/strong> Django, Django REST Framework, Flask, FastAPI, Bootstrap&lt;/li>
-&lt;li>&lt;strong>Databases:&lt;/strong> PostgreSQL, MySQL, Oracle, MongoDB, SQLServer, Redis, DynamoDB, Aurora&lt;/li>
-&lt;li>&lt;strong>Cloud Services:&lt;/strong> AWS, Google Cloud Platform&lt;/li>
-&lt;li>&lt;strong>Tools:&lt;/strong> Docker, Github Actions, Github, GitLab, BitBucket&lt;/li>
-&lt;li>&lt;strong>Data Analysis:&lt;/strong> Pandas, Matplotlib, Numpy, Plotly, Jupyter&lt;/li>
-&lt;li>&lt;strong>Operational Systems:&lt;/strong> Linux (Ubuntu, Amazon Linux), MacOS, Windows&lt;/li>
-&lt;li>&lt;strong>Others:&lt;/strong> HTML5, CSS3&lt;/li>
-&lt;/ul>
-&lt;p>Feel free to reach out and connect! 👥&lt;br>
-🔗 &lt;strong>LinkedIn:&lt;/strong> &lt;a href="https://www.linkedin.com/in/csfjunior90/">linkedin.com/in/csfjunior90/&lt;/a>&lt;br>
-📧 &lt;strong>Email:&lt;/strong> &lt;a href="mailto:csf.junior90@gmail.com">csf.junior90@gmail.com&lt;/a>&lt;br>
-📋 &lt;strong>Resume:&lt;/strong> &lt;a href="/resume.pdf">My Resume 2024&lt;/a>&lt;/p></content></item><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>food_truck_finder FoodTruck Finder API developed to find nearby food trucks based on user&amp;rsquo;s location
-Tech Stack 🛠️ Python 3 Django Django REST Framework Docker kabum_api 📘 Kabum API This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America. The API provides freight quotes based on the dimensions and weight of products, querying different carrier options.
-The system is designed to receive POST requests with product details and return a list of available shipping options, along with their costs and estimated delivery times.</description><content>&lt;h2 id="food_truck_finderhttpsgithubcomjuniorgunnerfood_truck_finder">&lt;a href="https://github.com/JuniorGunner/food_truck_finder">food_truck_finder&lt;/a>&lt;/h2>
+&lt;hr>
+&lt;h2 id="food_truck_finderhttpsgithubcomjuniorgunnerfood_truck_finder">&lt;a href="https://github.com/JuniorGunner/food_truck_finder">food_truck_finder&lt;/a>&lt;/h2>
 &lt;h3 id="foodtruck-finder">FoodTruck Finder&lt;/h3>
 &lt;p>API developed to find nearby food trucks based on user&amp;rsquo;s location&lt;/p>
-&lt;h4 id="tech-stack-">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--1">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Django&lt;/strong>&lt;/li>
@@ -36,7 +29,7 @@ The system is designed to receive POST requests with product details and return 
 &lt;h3 id="-kabum-api">📘 Kabum API&lt;/h3>
 &lt;p>This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America. The API provides freight quotes based on the dimensions and weight of products, querying different carrier options.&lt;/p>
 &lt;p>The system is designed to receive POST requests with product details and return a list of available shipping options, along with their costs and estimated delivery times.&lt;/p>
-&lt;h4 id="tech-stack--1">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--2">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Flask&lt;/strong>&lt;/li>
@@ -47,9 +40,9 @@ The system is designed to receive POST requests with product details and return 
 &lt;h2 id="flask_football_apihttpsgithubcomjuniorgunnerflask_football_api">&lt;a href="https://github.com/JuniorGunner/flask_football_api">flask_football_api&lt;/a>&lt;/h2>
 &lt;h3 id="-football-data-api">⚽ Football Data API&lt;/h3>
 &lt;p>This project is designed to create a REST API that interacts with the Football-data.org API, imports the data locally to a MongoDB database, and exposes endpoints for fetching the said data.&lt;/p>
-&lt;h4 id="tech-stack--2">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--3">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
-&lt;li>&lt;strong>Python&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Flask&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>MongoDB&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
@@ -57,7 +50,7 @@ The system is designed to receive POST requests with product details and return 
 &lt;hr>
 &lt;h2 id="dynamic_page_builderhttpsgithubcomjuniorgunnerdynamic_page_builder">&lt;a href="https://github.com/JuniorGunner/dynamic_page_builder">dynamic_page_builder&lt;/a>&lt;/h2>
 &lt;p>The Dynamic WebPage Builder is a web-based tool that enables users to easily create web pages by dynamically adding and configuring HTML elements. Users can visualize their page content in real-time, confirm its design, and then render the final product seamlessly.&lt;/p>
-&lt;h4 id="tech-stack--3">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--4">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Django&lt;/strong>&lt;/li>
@@ -68,7 +61,7 @@ The system is designed to receive POST requests with product details and return 
 &lt;h2 id="data_transformation_scripthttpsgithubcomjuniorgunnerdata_transformation_script">&lt;a href="https://github.com/JuniorGunner/data_transformation_script">data_transformation_script&lt;/a>&lt;/h2>
 &lt;h3 id="-data-transformation-script">🔄 Data Transformation Script&lt;/h3>
 &lt;p>The project is designed to transform a specific structure of data from an Excel file into a more structured and usable format.&lt;/p>
-&lt;h4 id="tech-stack--4">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--5">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Pandas&lt;/strong>&lt;/li>
@@ -77,7 +70,7 @@ The system is designed to receive POST requests with product details and return 
 &lt;h2 id="tst_automation_toolgitgithubcomjuniorgunnertst_automation_toolgit">&lt;a href="git@github.com:JuniorGunner/tst_automation_tool.git">tst_automation_tool&lt;/a>&lt;/h2>
 &lt;h3 id="-tst-brazilian-superior-labor-court-website-automation-tool">📑 TST (Brazilian Superior Labor Court) website Automation Tool&lt;/h3>
 &lt;p>This project is an automation tool designed to download PDF journals from Brazil&amp;rsquo;s Superior Labor Court (TST) website, extract the case numbers, and generate Excel spreadsheets separated by date. Additionally, the script identifies duplicate cases and generates a corresponding report.&lt;/p>
-&lt;h4 id="tech-stack--5">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--6">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Selenium&lt;/strong>&lt;/li>
@@ -88,7 +81,7 @@ The system is designed to receive POST requests with product details and return 
 &lt;h2 id="pet_adoption_apihttpsgithubcomjuniorgunnerpet_adoption_api">&lt;a href="https://github.com/JuniorGunner/pet_adoption_api">pet_adoption_api&lt;/a>&lt;/h2>
 &lt;h3 id="-pet-adoption-api">🐾 Pet Adoption API&lt;/h3>
 &lt;p>A simple yet powerful API developed to aid pet adoption organizations. It&amp;rsquo;s designed using Django and Django Rest Framework.&lt;/p>
-&lt;h4 id="tech-stack--6">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--7">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Django&lt;/strong>&lt;/li>
@@ -99,7 +92,7 @@ The system is designed to receive POST requests with product details and return 
 &lt;h3 id="-scrapy--beautifulsoup-real-estate-scraper">🏡 Scrapy + BeautifulSoup Real Estate Scraper&lt;/h3>
 &lt;p>This project is a robust web scraper designed to collect and store property sales values and other pertinent details about properties.&lt;/p>
 &lt;p>Data is scraped from &lt;a href="https://www.casamineira.com.br/">Casamineira&lt;/a>, a leading real estate website.&lt;/p>
-&lt;h4 id="tech-stack--7">Tech Stack 🛠️&lt;/h4>
+&lt;h4 id="tech-stack--8">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Python 3&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Scrapy&lt;/strong>&lt;/li>
