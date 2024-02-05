@@ -1,12 +1,11 @@
 +++
 title = "Portfolio"
-date = "2024-01-20"
+date = "2024-02-05"
 cover = "portfolio.png"
 paginate = true
 +++
 
 ## [ecommerce_backend](https://github.com/JuniorGunner/ecommerce_backend)
-🚧 In Progress
 
 Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.
 
@@ -17,6 +16,7 @@ Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQ
 - **SQLAlchemy**
 - **Alembic**
 - **Docker**
+- **Black**
 ---
 
 ## [food_truck_finder](https://github.com/JuniorGunner/food_truck_finder)

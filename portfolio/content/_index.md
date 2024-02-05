@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2024-01-20"
+date = "2024-02-05"
 author = "GunnerDev"
 +++
 

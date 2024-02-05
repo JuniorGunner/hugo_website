@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description/><content>&lt;iframe src="/resume.pdf" width="100%" height="1000px" frameborder="0">&lt;/iframe></content></item><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>ecommerce_backend 🚧 In Progress
-Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.
-Tech Stack 🛠️ Python 3 FastAPI PostgreSQL SQLAlchemy Alembic Docker food_truck_finder FoodTruck Finder API developed to find nearby food trucks based on user&amp;rsquo;s location
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on GunnerDev</title><link>/</link><description>Recent content in About on GunnerDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description/><content>&lt;iframe src="/resume.pdf" width="100%" height="1000px" frameborder="0">&lt;/iframe></content></item><item><title>Portfolio</title><link>/portfolio/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>/portfolio/</guid><description>ecommerce_backend Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.
+Tech Stack 🛠️ Python 3 FastAPI PostgreSQL SQLAlchemy Alembic Docker Black food_truck_finder FoodTruck Finder API developed to find nearby food trucks based on user&amp;rsquo;s location
 Tech Stack 🛠️ Python 3 Django Django REST Framework Docker kabum_api 📘 Kabum API This project consists of a REST API developed for KaBuM!, one of the largest technology e-commerce platforms in Latin America.</description><content>&lt;h2 id="ecommerce_backendhttpsgithubcomjuniorgunnerecommerce_backend">&lt;a href="https://github.com/JuniorGunner/ecommerce_backend">ecommerce_backend&lt;/a>&lt;/h2>
-&lt;p>🚧 In Progress&lt;/p>
 &lt;p>Backend for an e-commerce based on Shopify, built with Python, FastAPI, PstgreSQL, SQLAlchemy, Alembic and Docker.&lt;/p>
 &lt;h4 id="tech-stack-">Tech Stack 🛠️&lt;/h4>
 &lt;ul>
@@ -12,6 +10,7 @@ Tech Stack 🛠️ Python 3 Django Django REST Framework Docker kabum_api 📘 K
 &lt;li>&lt;strong>SQLAlchemy&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Alembic&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Docker&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Black&lt;/strong>&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="food_truck_finderhttpsgithubcomjuniorgunnerfood_truck_finder">&lt;a href="https://github.com/JuniorGunner/food_truck_finder">food_truck_finder&lt;/a>&lt;/h2>
